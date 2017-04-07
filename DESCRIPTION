@@ -1,0 +1,10 @@
+Package: ofufv15
+Type: Package
+Title: Data fra Oprør fra udkanten - Folketingsvalget 2015
+Version: 0.1.0.9999
+Author: Mikkel Freltoft Krogsholm
+Maintainer: Mikkel Freltoft Krogsholm <mikkel@56n.dk>
+Description: Pakken indeholder data fra bogen Oprør fra udkanten - Folketingsvalget 2015. Det vil sige de forskellige tabeller i bogen og de figurer, hvor det vvar muligt at udtrække data.
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
